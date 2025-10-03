@@ -1,7 +1,7 @@
 # Trig's Book-Nook
 Welcome to Trig's book nook, where you can download some of Trig's books and share or discuss writing tips and tricks.
 
-If you've enjoyed any of Trigs works and would like to help with the upkeep, or just buy Trig a coffee, then consider donating to help keep this
+If you've enjoyed any of Trig's works and would like to help with the upkeep, or just buy Trig a coffee, then consider donating a little to help keep this
 site and Trigs books free for everyone.  [Donate](https://paypal.me/ChartersTrig)
 
 ## Current Works
